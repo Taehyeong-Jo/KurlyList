@@ -279,7 +279,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -340,7 +340,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -401,7 +401,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -448,7 +448,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -509,7 +509,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -543,7 +543,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -608,7 +608,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -655,7 +655,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -711,7 +711,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -772,7 +772,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -806,7 +806,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -867,7 +867,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -909,7 +909,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -963,7 +963,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -1010,7 +1010,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -1064,7 +1064,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -1111,7 +1111,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -1174,7 +1174,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -1221,7 +1221,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -1268,7 +1268,7 @@
           "isSoldOut": false,
           "soldOutReason": "Sold Out",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -1325,7 +1325,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "다음 선물특가를 기대하세요!",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -1372,7 +1372,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -1406,7 +1406,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -1453,7 +1453,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -1521,7 +1521,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -1572,7 +1572,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -1621,7 +1621,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -1668,7 +1668,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -1707,7 +1707,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -1756,7 +1756,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -1795,7 +1795,7 @@
           "isSoldOut": false,
           "soldOutReason": "Sold Out",
           "soldOutDetail": "다음 선물특가를 기대하세요!",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -1838,7 +1838,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -1872,7 +1872,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -1911,7 +1911,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -1974,7 +1974,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -2023,7 +2023,7 @@
           "isSoldOut": false,
           "soldOutReason": "Sold Out",
           "soldOutDetail": "다음 선물특가를 기대하세요!",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -2062,7 +2062,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -2116,7 +2116,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -2170,7 +2170,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
@@ -2204,7 +2204,7 @@
           "isSoldOut": false,
           "soldOutReason": "Coming Soon",
           "soldOutDetail": "",
-          "isRestockNotifiable": true,
+          "isRestockAlertAvailable": true,
           "status": "BUY_POSSIBLE",
           "purchaseUnavailableReason": "Coming Soon",
           "deliveryTypeInfos": [
