@@ -2246,6 +2246,4535 @@
         }
       ],
       "type": "Product"
+    },
+    {
+      "id": 128,
+      "title": "합리적인 가격의 컬리 브랜드",
+      "subtitle": "퀄리티가 다른 컬러의 상품을 좋은 가격으로",
+      "collections": [
+        {
+          "id": 10134,
+          "title": "TOP500",
+          "code": "market-best-logic",
+          "imageURL": "https://collection-image.kurly.com/product-collections/10134/vLcoMNMMJuN3zUDTqzvTkYkGekE4f4dzX0SWJ2Cs.png",
+          "items": [
+            {
+              "number": 1000036568,
+              "name": "[에스티 로더] 갈색병 세럼 50ml + 45ml 기획세트 (15ml * 3ea 추가 증정)",
+              "summary": "한 병으로 되찾는 피부 균형",
+              "imageURL": "https://product-image.kurly.com/product/image/ab0b569c-fadb-46e6-baee-ee9f64952709.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/ab0b569c-fadb-46e6-baee-ee9f64952709.jpg",
+              "salesPrice": 200000,
+              "discountedPrice": 170000,
+              "discountRate": 15,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "999+"
+            },
+            {
+              "number": 1000975297,
+              "name": "[드시모네] 프라임 유산균 (100일분)",
+              "summary": "온가족 1,000억 CFU 유산균",
+              "imageURL": "https://product-image.kurly.com/product/image/ccfc5f10-5fae-4059-91ba-5eef5c385c41.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/ccfc5f10-5fae-4059-91ba-5eef5c385c41.jpg",
+              "salesPrice": 208000,
+              "discountedPrice": 145600,
+              "discountRate": 30,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "건강기능",
+                  "type": "DEFAULT"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/477280ef-9f62-4043-a471-2031d982725d.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "317"
+            },
+            {
+              "number": 5094562,
+              "name": "[타무르] 타무르 데이츠 대추야자 14구",
+              "summary": "정성스레 담은 이색 수제 디저트",
+              "imageURL": "https://product-image.kurly.com/product/image/9caf3305-529c-4346-96f7-c32ecd54a4df.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/9caf3305-529c-4346-96f7-c32ecd54a4df.jpg",
+              "salesPrice": 44900,
+              "discountedPrice": 31410,
+              "discountRate": 30,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                }
+              ],
+              "stickers": [],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "999+"
+            },
+            {
+              "number": 1000128745,
+              "name": "[Kim's butcher] 돌돌말이 대패 삼겹살 1kg(냉동)",
+              "summary": "든든하게 구비하는 대용량 삼겹살!",
+              "imageURL": "https://product-image.kurly.com/product/image/a68f6340-0b47-4929-9266-314dca796093.jpg?v=0531",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/a68f6340-0b47-4929-9266-314dca796093.jpg?v=0531",
+              "salesPrice": 16990,
+              "discountedPrice": 11890,
+              "discountRate": 30,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/1840ff66-a058-4839-92e5-116452784caa.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "9,999+"
+            },
+            {
+              "number": 1000258426,
+              "name": "[제니쿠키] 4믹스 쿠키 2종 (택1)",
+              "summary": "부드러운 식감과 녹진한 풍미",
+              "imageURL": "https://product-image.kurly.com/product/image/5ab8a1a7-2370-44c9-aa40-8630f3967cb6.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/5ab8a1a7-2370-44c9-aa40-8630f3967cb6.jpg",
+              "salesPrice": 28800,
+              "discountedPrice": null,
+              "discountRate": 0,
+              "isMultiplePrice": true,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "+15%쿠폰",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "999+"
+            }
+          ]
+        },
+        {
+          "id": 10188,
+          "title": "간편식사",
+          "code": "market-hmr-best",
+          "imageURL": "https://collection-image.kurly.com/product-collections/10188/5VxSGbzeu8GEYdaTtvquaPAsc4mPrjmLFFteOUAB.png",
+          "items": [
+            {
+              "number": 5056344,
+              "name": "[Kurly's] 간편하게 바삭, 유린기",
+              "summary": "집에서 만끽하는 근사한 중식 한상 (소스포함)",
+              "imageURL": "https://img-cf.kurly.com/shop/data/goods/1615619680902l0.jpg?v=0531",
+              "thumbnailImageURL": "https://img-cf.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/shop/data/goods/1615619680902l0.jpg?v=0531",
+              "salesPrice": 9200,
+              "discountedPrice": 7820,
+              "discountRate": 15,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/1b8cf52a-11f7-4458-a683-fe467f0be422.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "9,999+"
+            },
+            {
+              "number": 1000261454,
+              "name": "[조선호텔] 떡갈비 345g",
+              "summary": "특제 소스를 곁들여 남녀노소 모두가 좋아하는 떡갈비",
+              "imageURL": "https://product-image.kurly.com/product/image/09a0f576-c2cc-4d00-8ed4-c7d36c7b6967.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/09a0f576-c2cc-4d00-8ed4-c7d36c7b6967.jpg",
+              "salesPrice": 9900,
+              "discountedPrice": 8910,
+              "discountRate": 10,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "+10% 쿠폰",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                },
+                {
+                  "type": "BOTTOM_CENTER_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "최대혜택가 8,019원",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 0.4,
+                    "backgroundColorCode": "#000000"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "9,999+"
+            },
+            {
+              "number": 5131915,
+              "name": "[KF365] 훈제오리 2종 (2입)",
+              "summary": "두 팩으로 나눠 담아 간편한 훈제오리",
+              "imageURL": "https://product-image.kurly.com/product/image/23a32590-9613-4fe4-b563-f2d5d9a59b25.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/23a32590-9613-4fe4-b563-f2d5d9a59b25.jpg",
+              "salesPrice": 10500,
+              "discountedPrice": 7340,
+              "discountRate": 30,
+              "isMultiplePrice": true,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/1840ff66-a058-4839-92e5-116452784caa.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "9,999+"
+            },
+            {
+              "number": 1000040783,
+              "name": "[바른식] 강릉식 짬뽕순두부 찌개",
+              "summary": "칼칼한 국물 속 풍성한 해물",
+              "imageURL": "https://product-image.kurly.com/product/image/9115079e-d4b5-4081-a762-5940ca6fc3da.jpeg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/9115079e-d4b5-4081-a762-5940ca6fc3da.jpeg",
+              "salesPrice": 9900,
+              "discountedPrice": 7920,
+              "discountRate": 20,
+              "isMultiplePrice": true,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Sold Out",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "멤버스특가",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#4DBED7"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "9,999+"
+            },
+            {
+              "number": 1000128745,
+              "name": "[Kim's butcher] 돌돌말이 대패 삼겹살 1kg(냉동)",
+              "summary": "든든하게 구비하는 대용량 삼겹살!",
+              "imageURL": "https://product-image.kurly.com/product/image/a68f6340-0b47-4929-9266-314dca796093.jpg?v=0531",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/a68f6340-0b47-4929-9266-314dca796093.jpg?v=0531",
+              "salesPrice": 16990,
+              "discountedPrice": 11890,
+              "discountRate": 30,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/1840ff66-a058-4839-92e5-116452784caa.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "9,999+"
+            },
+            {
+              "number": 5035317,
+              "name": "[24-25 햇올리브][꾸악] 스페인 유기농 엑스트라버진 500mL",
+              "summary": "(오일풀링 가능) P.D.O 인증을 받은 얼리 하비스트 프리미엄 스페인 오일",
+              "imageURL": "https://product-image.kurly.com/product/image/0e015c5d-d3f8-4e66-9528-0522f1ac5c69.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/0e015c5d-d3f8-4e66-9528-0522f1ac5c69.jpg",
+              "salesPrice": 89100,
+              "discountedPrice": 80190,
+              "discountRate": 10,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Sold Out",
+              "soldOutDetail": "다음 선물특가를 기대하세요!",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                },
+                {
+                  "name": "희소가치 프로젝트",
+                  "type": "DEFAULT"
+                }
+              ],
+              "stickers": [],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "999+"
+            }
+          ]
+        },
+        {
+          "id": 10190,
+          "title": "신선코너",
+          "code": "market-fresh-best",
+          "imageURL": "https://collection-image.kurly.com/product-collections/10190/Pa0oTcj3ZYQHmZJtLEOxi5HS5Gl7GfALYghXolKA.png",
+          "items": [
+            {
+              "number": 1000117654,
+              "name": "[마정기름집] 프리미엄 국산 햇참기름 & 햇들기름 3종 (택1)",
+              "summary": "햇깨로 짜낸 깊은 맛과 향",
+              "imageURL": "https://product-image.kurly.com/product/image/efb8c557-ec87-4dc6-b0a2-90fe75ed8589.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/efb8c557-ec87-4dc6-b0a2-90fe75ed8589.jpg",
+              "salesPrice": 23900,
+              "discountedPrice": 22227,
+              "discountRate": 7,
+              "isMultiplePrice": true,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                },
+                {
+                  "name": "희소가치 프로젝트",
+                  "type": "DEFAULT"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "+15%쿠폰",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "999+"
+            },
+            {
+              "number": 1000908371,
+              "name": "고랭지 부사 사과 3kg(12입)",
+              "summary": "넉넉하게 두고 즐기는",
+              "imageURL": "https://product-image.kurly.com/product/image/40ef3c27-c65b-4592-ab09-92ffc2ab0152.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/40ef3c27-c65b-4592-ab09-92ffc2ab0152.jpg",
+              "salesPrice": 49900,
+              "discountedPrice": 39900,
+              "discountRate": 20,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "희소가치 프로젝트",
+                  "type": "DEFAULT"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "+15%쿠폰",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "9,999+"
+            },
+            {
+              "number": 5131915,
+              "name": "[KF365] 훈제오리 2종 (2입)",
+              "summary": "두 팩으로 나눠 담아 간편한 훈제오리",
+              "imageURL": "https://product-image.kurly.com/product/image/23a32590-9613-4fe4-b563-f2d5d9a59b25.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/23a32590-9613-4fe4-b563-f2d5d9a59b25.jpg",
+              "salesPrice": 10500,
+              "discountedPrice": 7340,
+              "discountRate": 30,
+              "isMultiplePrice": true,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/1840ff66-a058-4839-92e5-116452784caa.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "9,999+"
+            },
+            {
+              "number": 1000128745,
+              "name": "[Kim's butcher] 돌돌말이 대패 삼겹살 1kg(냉동)",
+              "summary": "든든하게 구비하는 대용량 삼겹살!",
+              "imageURL": "https://product-image.kurly.com/product/image/a68f6340-0b47-4929-9266-314dca796093.jpg?v=0531",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/a68f6340-0b47-4929-9266-314dca796093.jpg?v=0531",
+              "salesPrice": 16990,
+              "discountedPrice": 11890,
+              "discountRate": 30,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/1840ff66-a058-4839-92e5-116452784caa.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "9,999+"
+            },
+            {
+              "number": 5035317,
+              "name": "[24-25 햇올리브][꾸악] 스페인 유기농 엑스트라버진 500mL",
+              "summary": "(오일풀링 가능) P.D.O 인증을 받은 얼리 하비스트 프리미엄 스페인 오일",
+              "imageURL": "https://product-image.kurly.com/product/image/0e015c5d-d3f8-4e66-9528-0522f1ac5c69.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/0e015c5d-d3f8-4e66-9528-0522f1ac5c69.jpg",
+              "salesPrice": 89100,
+              "discountedPrice": 80190,
+              "discountRate": 10,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Sold Out",
+              "soldOutDetail": "다음 선물특가를 기대하세요!",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                },
+                {
+                  "name": "희소가치 프로젝트",
+                  "type": "DEFAULT"
+                }
+              ],
+              "stickers": [],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "999+"
+            }
+          ]
+        },
+        {
+          "id": 10189,
+          "title": "컬리정육점",
+          "code": "market-meat-best",
+          "imageURL": "https://collection-image.kurly.com/product-collections/10189/emK14wmlRqEtq5dm8M6TVURMET4BzqA4EK6EsOua.png",
+          "items": [
+            {
+              "number": 5131915,
+              "name": "[KF365] 훈제오리 2종 (2입)",
+              "summary": "두 팩으로 나눠 담아 간편한 훈제오리",
+              "imageURL": "https://product-image.kurly.com/product/image/23a32590-9613-4fe4-b563-f2d5d9a59b25.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/23a32590-9613-4fe4-b563-f2d5d9a59b25.jpg",
+              "salesPrice": 10500,
+              "discountedPrice": 7340,
+              "discountRate": 30,
+              "isMultiplePrice": true,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/1840ff66-a058-4839-92e5-116452784caa.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "9,999+"
+            },
+            {
+              "number": 1000128745,
+              "name": "[Kim's butcher] 돌돌말이 대패 삼겹살 1kg(냉동)",
+              "summary": "든든하게 구비하는 대용량 삼겹살!",
+              "imageURL": "https://product-image.kurly.com/product/image/a68f6340-0b47-4929-9266-314dca796093.jpg?v=0531",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/a68f6340-0b47-4929-9266-314dca796093.jpg?v=0531",
+              "salesPrice": 16990,
+              "discountedPrice": 11890,
+              "discountRate": 30,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/1840ff66-a058-4839-92e5-116452784caa.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "9,999+"
+            },
+            {
+              "number": 1000261454,
+              "name": "[조선호텔] 떡갈비 345g",
+              "summary": "특제 소스를 곁들여 남녀노소 모두가 좋아하는 떡갈비",
+              "imageURL": "https://product-image.kurly.com/product/image/09a0f576-c2cc-4d00-8ed4-c7d36c7b6967.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/09a0f576-c2cc-4d00-8ed4-c7d36c7b6967.jpg",
+              "salesPrice": 9900,
+              "discountedPrice": 8910,
+              "discountRate": 10,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "+10% 쿠폰",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                },
+                {
+                  "type": "BOTTOM_CENTER_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "최대혜택가 8,019원",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 0.4,
+                    "backgroundColorCode": "#000000"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "9,999+"
+            },
+            {
+              "number": 1000040783,
+              "name": "[바른식] 강릉식 짬뽕순두부 찌개",
+              "summary": "칼칼한 국물 속 풍성한 해물",
+              "imageURL": "https://product-image.kurly.com/product/image/9115079e-d4b5-4081-a762-5940ca6fc3da.jpeg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/9115079e-d4b5-4081-a762-5940ca6fc3da.jpeg",
+              "salesPrice": 9900,
+              "discountedPrice": 7920,
+              "discountRate": 20,
+              "isMultiplePrice": true,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Sold Out",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "멤버스특가",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#4DBED7"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "9,999+"
+            },
+            {
+              "number": 5056344,
+              "name": "[Kurly's] 간편하게 바삭, 유린기",
+              "summary": "집에서 만끽하는 근사한 중식 한상 (소스포함)",
+              "imageURL": "https://img-cf.kurly.com/shop/data/goods/1615619680902l0.jpg?v=0531",
+              "thumbnailImageURL": "https://img-cf.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/shop/data/goods/1615619680902l0.jpg?v=0531",
+              "salesPrice": 9200,
+              "discountedPrice": 7820,
+              "discountRate": 15,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/1b8cf52a-11f7-4458-a683-fe467f0be422.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "9,999+"
+            },
+            {
+              "number": 1000908371,
+              "name": "고랭지 부사 사과 3kg(12입)",
+              "summary": "넉넉하게 두고 즐기는",
+              "imageURL": "https://product-image.kurly.com/product/image/40ef3c27-c65b-4592-ab09-92ffc2ab0152.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/40ef3c27-c65b-4592-ab09-92ffc2ab0152.jpg",
+              "salesPrice": 49900,
+              "discountedPrice": 39900,
+              "discountRate": 20,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "희소가치 프로젝트",
+                  "type": "DEFAULT"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "+15%쿠폰",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "9,999+"
+            }
+          ]
+        },
+        {
+          "id": 11433,
+          "title": "컬리에만있는",
+          "code": "market-kurlyonly-best-logic",
+          "imageURL": "https://collection-image.kurly.com/product-collections/11433/AtTVde9pLvRnj7pxIedwIR62AZqYdGHTz9EkTYmE.png",
+          "items": [
+            {
+              "number": 5131915,
+              "name": "[KF365] 훈제오리 2종 (2입)",
+              "summary": "두 팩으로 나눠 담아 간편한 훈제오리",
+              "imageURL": "https://product-image.kurly.com/product/image/23a32590-9613-4fe4-b563-f2d5d9a59b25.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/23a32590-9613-4fe4-b563-f2d5d9a59b25.jpg",
+              "salesPrice": 10500,
+              "discountedPrice": 7340,
+              "discountRate": 30,
+              "isMultiplePrice": true,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/1840ff66-a058-4839-92e5-116452784caa.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "9,999+"
+            },
+            {
+              "number": 1000128745,
+              "name": "[Kim's butcher] 돌돌말이 대패 삼겹살 1kg(냉동)",
+              "summary": "든든하게 구비하는 대용량 삼겹살!",
+              "imageURL": "https://product-image.kurly.com/product/image/a68f6340-0b47-4929-9266-314dca796093.jpg?v=0531",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/a68f6340-0b47-4929-9266-314dca796093.jpg?v=0531",
+              "salesPrice": 16990,
+              "discountedPrice": 11890,
+              "discountRate": 30,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/1840ff66-a058-4839-92e5-116452784caa.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "9,999+"
+            },
+            {
+              "number": 5056344,
+              "name": "[Kurly's] 간편하게 바삭, 유린기",
+              "summary": "집에서 만끽하는 근사한 중식 한상 (소스포함)",
+              "imageURL": "https://img-cf.kurly.com/shop/data/goods/1615619680902l0.jpg?v=0531",
+              "thumbnailImageURL": "https://img-cf.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/shop/data/goods/1615619680902l0.jpg?v=0531",
+              "salesPrice": 9200,
+              "discountedPrice": 7820,
+              "discountRate": 15,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/1b8cf52a-11f7-4458-a683-fe467f0be422.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "9,999+"
+            },
+            {
+              "number": 1000231785,
+              "name": "[김정환홍삼] 홍삼으로 에너지가임 플러스 (100일분)(+쇼핑백증정)",
+              "summary": "고급스러운 홍삼 선물세트 & 쇼핑백 증정",
+              "imageURL": "https://product-image.kurly.com/product/image/0377da12-5e4b-4db4-8ae5-0c4f6c360529.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/0377da12-5e4b-4db4-8ae5-0c4f6c360529.jpg",
+              "salesPrice": 249000,
+              "discountedPrice": 68100,
+              "discountRate": 72,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                },
+                {
+                  "name": "건강기능",
+                  "type": "DEFAULT"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/477280ef-9f62-4043-a471-2031d982725d.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "9,999+"
+            },
+            {
+              "number": 1001164253,
+              "name": "[에스트라] 아토베리어365 크림 80ml 2개 세트 (+크림 10ml, 비타C 광채수분 선크림 20ml+1ml)",
+              "summary": "특별하게 꾸린 2세대 보습 크림",
+              "imageURL": "https://product-image.kurly.com/product/image/433142e0-d711-4212-aaba-5214e25f5a10.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/433142e0-d711-4212-aaba-5214e25f5a10.jpg",
+              "salesPrice": 66000,
+              "discountedPrice": 52800,
+              "discountRate": 20,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "+15%쿠폰",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                },
+                {
+                  "type": "BOTTOM_CENTER_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "최대혜택가 47,520원",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 0.4,
+                    "backgroundColorCode": "#000000"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "999+"
+            },
+            {
+              "number": 5035317,
+              "name": "[24-25 햇올리브][꾸악] 스페인 유기농 엑스트라버진 500mL",
+              "summary": "(오일풀링 가능) P.D.O 인증을 받은 얼리 하비스트 프리미엄 스페인 오일",
+              "imageURL": "https://product-image.kurly.com/product/image/0e015c5d-d3f8-4e66-9528-0522f1ac5c69.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/0e015c5d-d3f8-4e66-9528-0522f1ac5c69.jpg",
+              "salesPrice": 89100,
+              "discountedPrice": 80190,
+              "discountRate": 10,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Sold Out",
+              "soldOutDetail": "다음 선물특가를 기대하세요!",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                },
+                {
+                  "name": "희소가치 프로젝트",
+                  "type": "DEFAULT"
+                }
+              ],
+              "stickers": [],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "999+"
+            },
+            {
+              "number": 5094562,
+              "name": "[타무르] 타무르 데이츠 대추야자 14구",
+              "summary": "정성스레 담은 이색 수제 디저트",
+              "imageURL": "https://product-image.kurly.com/product/image/9caf3305-529c-4346-96f7-c32ecd54a4df.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/9caf3305-529c-4346-96f7-c32ecd54a4df.jpg",
+              "salesPrice": 44900,
+              "discountedPrice": 31410,
+              "discountRate": 30,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                }
+              ],
+              "stickers": [],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "999+"
+            },
+            {
+              "number": 1000117654,
+              "name": "[마정기름집] 프리미엄 국산 햇참기름 & 햇들기름 3종 (택1)",
+              "summary": "햇깨로 짜낸 깊은 맛과 향",
+              "imageURL": "https://product-image.kurly.com/product/image/efb8c557-ec87-4dc6-b0a2-90fe75ed8589.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/efb8c557-ec87-4dc6-b0a2-90fe75ed8589.jpg",
+              "salesPrice": 23900,
+              "discountedPrice": 22227,
+              "discountRate": 7,
+              "isMultiplePrice": true,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                },
+                {
+                  "name": "희소가치 프로젝트",
+                  "type": "DEFAULT"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "+15%쿠폰",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "999+"
+            }
+          ]
+        },
+        {
+          "id": 11460,
+          "title": "인기급상승",
+          "code": "market-hot-best-logic",
+          "imageURL": "https://collection-image.kurly.com/product-collections/11460/7z2WC4M5ZBtboOY9roG2mkt1AYia1i93krcym1yx.png",
+          "items": [
+            {
+              "number": 1000036568,
+              "name": "[에스티 로더] 갈색병 세럼 50ml + 45ml 기획세트 (15ml * 3ea 추가 증정)",
+              "summary": "한 병으로 되찾는 피부 균형",
+              "imageURL": "https://product-image.kurly.com/product/image/ab0b569c-fadb-46e6-baee-ee9f64952709.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/ab0b569c-fadb-46e6-baee-ee9f64952709.jpg",
+              "salesPrice": 200000,
+              "discountedPrice": 170000,
+              "discountRate": 15,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "999+"
+            },
+            {
+              "number": 1000107750,
+              "name": "[덴프스] 덴마크 유산균이야기 선물세트 (180일분) +(쇼핑백 증정)",
+              "summary": "온 가족 장 건강 유산균 선물세트",
+              "imageURL": "https://product-image.kurly.com/product/image/ade9d2f1-d9a6-4bbc-97c4-8bf96b81990f.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/ade9d2f1-d9a6-4bbc-97c4-8bf96b81990f.jpg",
+              "salesPrice": 276000,
+              "discountedPrice": 92000,
+              "discountRate": 66,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "다음 선물특가를 기대하세요!",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "건강기능",
+                  "type": "DEFAULT"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/477280ef-9f62-4043-a471-2031d982725d.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "995"
+            },
+            {
+              "number": 1001109018,
+              "name": "[설화수] New 자음 2종 세트 (자음수EX, 자음유액EX)",
+              "summary": "맑고 촉촉한 피부를 가꾸는 세트 (+쇼핑백 선택 가능)",
+              "imageURL": "https://product-image.kurly.com/product/image/33462189-ea9f-4f00-9c0f-91c42a180af3.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/33462189-ea9f-4f00-9c0f-91c42a180af3.jpg",
+              "salesPrice": 150000,
+              "discountedPrice": 135000,
+              "discountRate": 10,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "17%쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "978"
+            },
+            {
+              "number": 1000258426,
+              "name": "[제니쿠키] 4믹스 쿠키 2종 (택1)",
+              "summary": "부드러운 식감과 녹진한 풍미",
+              "imageURL": "https://product-image.kurly.com/product/image/5ab8a1a7-2370-44c9-aa40-8630f3967cb6.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/5ab8a1a7-2370-44c9-aa40-8630f3967cb6.jpg",
+              "salesPrice": 28800,
+              "discountedPrice": null,
+              "discountRate": 0,
+              "isMultiplePrice": true,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "+15%쿠폰",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "999+"
+            },
+            {
+              "number": 1000125253,
+              "name": "[산타마리아노벨라] 왁스 타블렛 9종 (택1)",
+              "summary": "공간에 은은하게 물드는 향기",
+              "imageURL": "https://product-image.kurly.com/product/image/463e93e8-5e74-4113-b58b-f28f75978d2a.jpeg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/463e93e8-5e74-4113-b58b-f28f75978d2a.jpeg",
+              "salesPrice": 45000,
+              "discountedPrice": 40500,
+              "discountRate": 10,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "20%쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                },
+                {
+                  "type": "BOTTOM_CENTER_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "최대혜택가 32,400원",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 0.4,
+                    "backgroundColorCode": "#000000"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "999+"
+            },
+            {
+              "number": 1001207557,
+              "name": "[설화수] New 탄력 3종 세트 (탄력크림EX, 자음수EX, 자음유액EX)_지함보",
+              "summary": "맑고 탄탄한 피부를 가꾸는 세트(+쇼핑백 선택 가능)",
+              "imageURL": "https://product-image.kurly.com/product/image/cc4a3577-1561-43f0-a41d-f013ea0eda7a.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/cc4a3577-1561-43f0-a41d-f013ea0eda7a.jpg",
+              "salesPrice": 215000,
+              "discountedPrice": 193500,
+              "discountRate": 10,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "무료배송",
+                  "type": "DEFAULT"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "17%쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "25"
+            }
+          ]
+        },
+        {
+          "id": 10191,
+          "title": "생활필수품",
+          "code": "market-etc-best",
+          "imageURL": "https://collection-image.kurly.com/product-collections/10191/MQhoU0200f9n607mRvnzodZ10eSZQJSYIr6bN1oL.png",
+          "items": [
+            {
+              "number": 1000553396,
+              "name": "[키엘] 울트라 훼이셜 크림 125ml 세트 *추가 증정*",
+              "summary": "마침내 정착할 수분크림",
+              "imageURL": "https://product-image.kurly.com/product/image/b640effa-c967-4709-8d8b-eac0752801df.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/b640effa-c967-4709-8d8b-eac0752801df.jpg",
+              "salesPrice": 95000,
+              "discountedPrice": 80750,
+              "discountRate": 15,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "+15%쿠폰",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "819"
+            },
+            {
+              "number": 1000666824,
+              "name": "[풀리오] 종아리 마사지기 V3 (1SET)",
+              "summary": "3.0L 에어펌프에서 출력되는 국내유일 3중 에어셀 기술특허!",
+              "imageURL": "https://3p-image.kurly.com/files/0eb47c72-6b65-412f-b1dd-16570472ec7f/e1e9e727-0c0c-4a8f-9be4-5c9cbf664e5c.jpg",
+              "thumbnailImageURL": "https://3p-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/files/0eb47c72-6b65-412f-b1dd-16570472ec7f/e1e9e727-0c0c-4a8f-9be4-5c9cbf664e5c.jpg",
+              "salesPrice": 248000,
+              "discountedPrice": 134900,
+              "discountRate": 45,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "NORMAL_PARCEL",
+                  "description": "판매자배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "무료배송",
+                  "type": "DEFAULT"
+                }
+              ],
+              "stickers": [],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "176"
+            },
+            {
+              "number": 1001201988,
+              "name": "[랑콤] NEW 제니피끄 얼티미트 세럼 50ml 가정의달 세트",
+              "summary": "단독 혜택 구성, 가정의 달 맞이 선물세트 (쇼핑백 포함)",
+              "imageURL": "https://product-image.kurly.com/product/image/615f9802-4b28-4977-a0bf-cf02907aca48.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/615f9802-4b28-4977-a0bf-cf02907aca48.jpg",
+              "salesPrice": 195000,
+              "discountedPrice": 165750,
+              "discountRate": 15,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "46"
+            },
+            {
+              "number": 1000560019,
+              "name": "[랑콤] 본품 대비 20% 할인 세트! UV 엑스퍼트 선크림 50ml 듀오 세트 NEW 3종 (택1)",
+              "summary": "본품 두개 대비 20%할인 효과 세트!",
+              "imageURL": "https://product-image.kurly.com/product/image/b599211f-8ba6-4da2-9a96-0e0b15a51554.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/b599211f-8ba6-4da2-9a96-0e0b15a51554.jpg",
+              "salesPrice": 158000,
+              "discountedPrice": 134300,
+              "discountRate": 15,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "418"
+            },
+            {
+              "number": 1000351479,
+              "name": "[오쏘몰] 오쏘몰 이뮨 비타민 드링크+정제 2박스 (60일분)",
+              "summary": "독일 프리미엄 이뮨 비타민",
+              "imageURL": "https://3p-image.kurly.com/files/1561e679-59a5-4863-8e11-dc0d757e630c/da0df228-6694-433a-9220-625718fab26f.jpg",
+              "thumbnailImageURL": "https://3p-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/files/1561e679-59a5-4863-8e11-dc0d757e630c/da0df228-6694-433a-9220-625718fab26f.jpg",
+              "salesPrice": 211400,
+              "discountedPrice": 155600,
+              "discountRate": 26,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Sold Out",
+              "soldOutDetail": "다음 선물특가를 기대하세요!",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "INTERNATIONAL_DIRECT",
+                  "description": "해외직배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "무료배송",
+                  "type": "DEFAULT"
+                }
+              ],
+              "stickers": [],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "846"
+            }
+          ]
+        },
+        {
+          "id": 12342,
+          "title": "직원추천상품",
+          "code": "market-kurlymd-best-logic",
+          "imageURL": "https://collection-image.kurly.com/product-collections/12342/3P7djQSaPPB9tuqrpC9QMrt8NBBAE5g0rUrOE5eq.png",
+          "items": [
+            {
+              "number": 1000107750,
+              "name": "[덴프스] 덴마크 유산균이야기 선물세트 (180일분) +(쇼핑백 증정)",
+              "summary": "온 가족 장 건강 유산균 선물세트",
+              "imageURL": "https://product-image.kurly.com/product/image/ade9d2f1-d9a6-4bbc-97c4-8bf96b81990f.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/ade9d2f1-d9a6-4bbc-97c4-8bf96b81990f.jpg",
+              "salesPrice": 276000,
+              "discountedPrice": 92000,
+              "discountRate": 66,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "다음 선물특가를 기대하세요!",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "건강기능",
+                  "type": "DEFAULT"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/477280ef-9f62-4043-a471-2031d982725d.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "995"
+            },
+            {
+              "number": 1000441408,
+              "name": "[정관장] 홍삼정 에브리타임 소프트 (30일분) (+보자기포장/쇼핑백증정)",
+              "summary": "보자기 홍삼 선물세트 + 전용 쇼핑백 증정",
+              "imageURL": "https://product-image.kurly.com/product/image/d11bd78c-e4a9-432e-89f7-862f5092bf49.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/d11bd78c-e4a9-432e-89f7-862f5092bf49.jpg",
+              "salesPrice": 77000,
+              "discountedPrice": 69300,
+              "discountRate": 10,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "건강기능",
+                  "type": "DEFAULT"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/477280ef-9f62-4043-a471-2031d982725d.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "688"
+            },
+            {
+              "number": 1001224888,
+              "name": "[정관장] 홍삼정 에브리타임소프트(20일분) X 2박스 (+쇼핑백증정)",
+              "summary": "정성스러운 리본 포장과 전용쇼핑백 증정",
+              "imageURL": "https://product-image.kurly.com/product/image/5fe799c9-49c7-4f09-9c70-5c47df529828.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/5fe799c9-49c7-4f09-9c70-5c47df529828.jpg",
+              "salesPrice": 108000,
+              "discountedPrice": 86400,
+              "discountRate": 20,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "건강기능",
+                  "type": "DEFAULT"
+                }
+              ],
+              "stickers": [],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "398"
+            },
+            {
+              "number": 1000231785,
+              "name": "[김정환홍삼] 홍삼으로 에너지가임 플러스 (100일분)(+쇼핑백증정)",
+              "summary": "고급스러운 홍삼 선물세트 & 쇼핑백 증정",
+              "imageURL": "https://product-image.kurly.com/product/image/0377da12-5e4b-4db4-8ae5-0c4f6c360529.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/0377da12-5e4b-4db4-8ae5-0c4f6c360529.jpg",
+              "salesPrice": 249000,
+              "discountedPrice": 68100,
+              "discountRate": 72,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                },
+                {
+                  "name": "건강기능",
+                  "type": "DEFAULT"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/477280ef-9f62-4043-a471-2031d982725d.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "9,999+"
+            },
+            {
+              "number": 1000975297,
+              "name": "[드시모네] 프라임 유산균 (100일분)",
+              "summary": "온가족 1,000억 CFU 유산균",
+              "imageURL": "https://product-image.kurly.com/product/image/ccfc5f10-5fae-4059-91ba-5eef5c385c41.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/ccfc5f10-5fae-4059-91ba-5eef5c385c41.jpg",
+              "salesPrice": 208000,
+              "discountedPrice": 145600,
+              "discountRate": 30,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "건강기능",
+                  "type": "DEFAULT"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/477280ef-9f62-4043-a471-2031d982725d.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "317"
+            },
+            {
+              "number": 1000351479,
+              "name": "[오쏘몰] 오쏘몰 이뮨 비타민 드링크+정제 2박스 (60일분)",
+              "summary": "독일 프리미엄 이뮨 비타민",
+              "imageURL": "https://3p-image.kurly.com/files/1561e679-59a5-4863-8e11-dc0d757e630c/da0df228-6694-433a-9220-625718fab26f.jpg",
+              "thumbnailImageURL": "https://3p-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/files/1561e679-59a5-4863-8e11-dc0d757e630c/da0df228-6694-433a-9220-625718fab26f.jpg",
+              "salesPrice": 211400,
+              "discountedPrice": 155600,
+              "discountRate": 26,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Sold Out",
+              "soldOutDetail": "다음 선물특가를 기대하세요!",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "INTERNATIONAL_DIRECT",
+                  "description": "해외직배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "무료배송",
+                  "type": "DEFAULT"
+                }
+              ],
+              "stickers": [],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "846"
+            }
+          ]
+        }
+      ],
+      "type": "Collection"
+    },
+    {
+      "id": 1929,
+      "title": "합리적인 가격의 컬리 브랜드",
+      "subtitle": "퀄리티가 다른 컬러의 상품을 좋은 가격으로",
+      "collections": [
+        {
+          "id": 20675,
+          "title": "페스타딜",
+          "code": "5bkf-160001-gnb",
+          "imageURL": "https://collection-image.kurly.com/product-collections/20675/AL7MkHH8Rr5DtDfbsOllp0UWvgdPxZa9cAinwJgu.png",
+          "items": [
+            {
+              "number": 1000425566,
+              "name": "[닥터에이지] 모이스트 더마 시카 리페어 크림50ml 1+1",
+              "summary": "데일리 진정 보습 크림",
+              "imageURL": "https://product-image.kurly.com/product/image/72fd710d-d65e-4903-b108-157425e03d81.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/72fd710d-d65e-4903-b108-157425e03d81.jpg",
+              "salesPrice": 36000,
+              "discountedPrice": 16900,
+              "discountRate": 53,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/7cb952dc-4a57-43a8-b021-95ed74cb1e5e.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "170"
+            },
+            {
+              "number": 1000391775,
+              "name": "[컬리쉴] 실키 오일 세럼 70ml",
+              "summary": "10가지 에센셜 오일을 블렌딩해 완성한  ",
+              "imageURL": "https://product-image.kurly.com/product/image/490b29f6-6092-4e66-9c0a-33b4df7bb12b.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/490b29f6-6092-4e66-9c0a-33b4df7bb12b.jpg",
+              "salesPrice": 25000,
+              "discountedPrice": 21250,
+              "discountRate": 15,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/7cb952dc-4a57-43a8-b021-95ed74cb1e5e.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "119"
+            },
+            {
+              "number": 1001109589,
+              "name": "[브이티] VT 블랙 트러플 리들샷 피디알엔 꿀조합 기획세트 (트러플 리들샷 100, 피디알엔 에센스, 피디알엔 마스크)",
+              "summary": "로얄 트러플과 산삼 추출물의 에너지로 프리미엄 에이징 케어",
+              "imageURL": "https://product-image.kurly.com/product/image/78837631-f3b7-4e59-a298-06ac7d98b86c.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/78837631-f3b7-4e59-a298-06ac7d98b86c.jpg",
+              "salesPrice": 118000,
+              "discountedPrice": 76700,
+              "discountRate": 35,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "증정이벤트",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                },
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/7cb952dc-4a57-43a8-b021-95ed74cb1e5e.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "212"
+            },
+            {
+              "number": 5148587,
+              "name": "[쌍빠] 어딕트 프렌치 립오일 4.5ml (04 히비스커스)",
+              "summary": "끈적임 없이 촉촉하고 생기 있는 입술",
+              "imageURL": "https://img-cf.kurly.com/shop/data/goods/1657521508900l0.jpg",
+              "thumbnailImageURL": "https://img-cf.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/shop/data/goods/1657521508900l0.jpg",
+              "salesPrice": 15000,
+              "discountedPrice": 9900,
+              "discountRate": 34,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/7cb952dc-4a57-43a8-b021-95ed74cb1e5e.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "221"
+            },
+            {
+              "number": 1000575301,
+              "name": "[달바] 화이트 트러플 퍼스트 아로마틱 스프레이 세럼 60ml",
+              "summary": "속부터 촉촉하게 탄력 케어",
+              "imageURL": "https://product-image.kurly.com/product/image/3ef6d31b-0d8c-417a-9735-f7ca21f0b282.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/3ef6d31b-0d8c-417a-9735-f7ca21f0b282.jpg",
+              "salesPrice": 26000,
+              "discountedPrice": 17900,
+              "discountRate": 31,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "1천원쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "11"
+            }
+          ]
+        },
+        {
+          "id": 20659,
+          "title": "럭셔리쿠폰",
+          "code": "5bkf-160008001-home",
+          "imageURL": "https://collection-image.kurly.com/product-collections/20659/wN3P8gY2uZmeE0coFuBEy2lTxVbF3ENgiYmFJMP5.png",
+          "items": [
+            {
+              "number": 1001109591,
+              "name": "[브이티] VT 콜라겐 리들샷 피디알엔 꿀조합 기획세트 (콜라겐 리들샷 100, 피디알엔 에센스, 피디알엔 마스크)",
+              "summary": "탄력 시카 리들과 산삼 추출물의 에너지로 탄력 집중 케어",
+              "imageURL": "https://product-image.kurly.com/product/image/e4b51721-22f0-4cc7-a644-da21af0357db.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/e4b51721-22f0-4cc7-a644-da21af0357db.jpg",
+              "salesPrice": 117000,
+              "discountedPrice": 76000,
+              "discountRate": 35,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/7cb952dc-4a57-43a8-b021-95ed74cb1e5e.png"
+                  }
+                },
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "증정이벤트",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "363"
+            },
+            {
+              "number": 5090236,
+              "name": "[정샘물] 에센셜 물크림/물크림 라이트 50ML 2종(택1)",
+              "summary": "촉촉하게 빛나는 윤광 피부",
+              "imageURL": "https://product-image.kurly.com/product/image/0bffc265-6459-4e6c-9395-8ec120700631.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/0bffc265-6459-4e6c-9395-8ec120700631.jpg",
+              "salesPrice": 53000,
+              "discountedPrice": 43460,
+              "discountRate": 18,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/7cb952dc-4a57-43a8-b021-95ed74cb1e5e.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "155"
+            },
+            {
+              "number": 1001073730,
+              "name": "[에이지투웨니스] 샤이닝드롭 팩트 에디션 핑크라떼/화이트라떼 (케이스1개+리필3개) 4종 (택1)",
+              "summary": "영롱하게 빛나는 글리터 케이스",
+              "imageURL": "https://product-image.kurly.com/product/image/9534feaf-6a33-416f-812d-4ec1c2b34f22.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/9534feaf-6a33-416f-812d-4ec1c2b34f22.jpg",
+              "salesPrice": 45000,
+              "discountedPrice": 32900,
+              "discountRate": 26,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/7cb952dc-4a57-43a8-b021-95ed74cb1e5e.png"
+                  }
+                },
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "10%쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "200"
+            },
+            {
+              "number": 1000575301,
+              "name": "[달바] 화이트 트러플 퍼스트 아로마틱 스프레이 세럼 60ml",
+              "summary": "속부터 촉촉하게 탄력 케어",
+              "imageURL": "https://product-image.kurly.com/product/image/3ef6d31b-0d8c-417a-9735-f7ca21f0b282.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/3ef6d31b-0d8c-417a-9735-f7ca21f0b282.jpg",
+              "salesPrice": 26000,
+              "discountedPrice": 17900,
+              "discountRate": 31,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "1천원쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "11"
+            },
+            {
+              "number": 5144563,
+              "name": "[달바] 핑크 톤업+에센스 선크림 단독 기획세트 (톤업 50ml+에센스 50ml+선크림 3ml*3종)",
+              "summary": "컬리에서만 만나볼 수 있는 달바 선크림 기획세트",
+              "imageURL": "https://product-image.kurly.com/product/image/9dfd9ee9-d036-4292-b939-e157f767c508.jpg?v=x0520",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/9dfd9ee9-d036-4292-b939-e157f767c508.jpg?v=x0520",
+              "salesPrice": 68000,
+              "discountedPrice": 33900,
+              "discountRate": 50,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "1천원쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                },
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/7cb952dc-4a57-43a8-b021-95ed74cb1e5e.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "887"
+            },
+            {
+              "number": 1000971629,
+              "name": "[달바] 인텐시브 리프텐션 마스크 2box (총 8매입) (세트딜)",
+              "summary": "",
+              "imageURL": "https://product-image.kurly.com/product/image/21af30dc-63a9-4369-bacd-e7de7661423b.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/21af30dc-63a9-4369-bacd-e7de7661423b.jpg",
+              "salesPrice": 64000,
+              "discountedPrice": 22400,
+              "discountRate": 65,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "1천원쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "21"
+            }
+          ]
+        },
+        {
+          "id": 28789,
+          "title": "무료배송",
+          "code": "5bkf-826-gnb",
+          "imageURL": "https://collection-image.kurly.com/product-collections/28789/YohJu9uHnLfCeKCf3l4ChkZRg8G3ICBzIw9DnXE8.png",
+          "items": [
+            {
+              "number": 1000351479,
+              "name": "[오쏘몰] 오쏘몰 이뮨 비타민 드링크+정제 2박스 (60일분)",
+              "summary": "독일 프리미엄 이뮨 비타민",
+              "imageURL": "https://3p-image.kurly.com/files/1561e679-59a5-4863-8e11-dc0d757e630c/da0df228-6694-433a-9220-625718fab26f.jpg",
+              "thumbnailImageURL": "https://3p-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/files/1561e679-59a5-4863-8e11-dc0d757e630c/da0df228-6694-433a-9220-625718fab26f.jpg",
+              "salesPrice": 211400,
+              "discountedPrice": 155600,
+              "discountRate": 26,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Sold Out",
+              "soldOutDetail": "다음 선물특가를 기대하세요!",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "INTERNATIONAL_DIRECT",
+                  "description": "해외직배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "무료배송",
+                  "type": "DEFAULT"
+                }
+              ],
+              "stickers": [],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "846"
+            },
+            {
+              "number": 1000666824,
+              "name": "[풀리오] 종아리 마사지기 V3 (1SET)",
+              "summary": "3.0L 에어펌프에서 출력되는 국내유일 3중 에어셀 기술특허!",
+              "imageURL": "https://3p-image.kurly.com/files/0eb47c72-6b65-412f-b1dd-16570472ec7f/e1e9e727-0c0c-4a8f-9be4-5c9cbf664e5c.jpg",
+              "thumbnailImageURL": "https://3p-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/files/0eb47c72-6b65-412f-b1dd-16570472ec7f/e1e9e727-0c0c-4a8f-9be4-5c9cbf664e5c.jpg",
+              "salesPrice": 248000,
+              "discountedPrice": 134900,
+              "discountRate": 45,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "NORMAL_PARCEL",
+                  "description": "판매자배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "무료배송",
+                  "type": "DEFAULT"
+                }
+              ],
+              "stickers": [],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "176"
+            },
+            {
+              "number": 1001207557,
+              "name": "[설화수] New 탄력 3종 세트 (탄력크림EX, 자음수EX, 자음유액EX)_지함보",
+              "summary": "맑고 탄탄한 피부를 가꾸는 세트(+쇼핑백 선택 가능)",
+              "imageURL": "https://product-image.kurly.com/product/image/cc4a3577-1561-43f0-a41d-f013ea0eda7a.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/cc4a3577-1561-43f0-a41d-f013ea0eda7a.jpg",
+              "salesPrice": 215000,
+              "discountedPrice": 193500,
+              "discountRate": 10,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "무료배송",
+                  "type": "DEFAULT"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "17%쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "25"
+            },
+            {
+              "number": 1000425566,
+              "name": "[닥터에이지] 모이스트 더마 시카 리페어 크림50ml 1+1",
+              "summary": "데일리 진정 보습 크림",
+              "imageURL": "https://product-image.kurly.com/product/image/72fd710d-d65e-4903-b108-157425e03d81.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/72fd710d-d65e-4903-b108-157425e03d81.jpg",
+              "salesPrice": 36000,
+              "discountedPrice": 16900,
+              "discountRate": 53,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/7cb952dc-4a57-43a8-b021-95ed74cb1e5e.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "170"
+            },
+            {
+              "number": 1000391775,
+              "name": "[컬리쉴] 실키 오일 세럼 70ml",
+              "summary": "10가지 에센셜 오일을 블렌딩해 완성한  ",
+              "imageURL": "https://product-image.kurly.com/product/image/490b29f6-6092-4e66-9c0a-33b4df7bb12b.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/490b29f6-6092-4e66-9c0a-33b4df7bb12b.jpg",
+              "salesPrice": 25000,
+              "discountedPrice": 21250,
+              "discountRate": 15,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/7cb952dc-4a57-43a8-b021-95ed74cb1e5e.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "119"
+            }
+          ]
+        },
+        {
+          "id": 20689,
+          "title": "달바",
+          "code": "5bkf-160010009-gnb",
+          "imageURL": "https://collection-image.kurly.com/product-collections/20689/sFwb0cF3Peh8LqH5mKIPr60tliEsROd1XjMNOnhS.png",
+          "items": [
+            {
+              "number": 1000575192,
+              "name": "[달바] 핑크 톤업+마일드 선크림 단독 기획세트 (톤업50ml+마일드50ml+에센스 선크림3ml*3)",
+              "summary": "컬리에서만 만나볼 수 있는 달바 선크림 기획세트",
+              "imageURL": "https://product-image.kurly.com/product/image/cb4ca0b9-0da1-48fa-abf8-dbd7e6e8c332.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/cb4ca0b9-0da1-48fa-abf8-dbd7e6e8c332.jpg",
+              "salesPrice": 68000,
+              "discountedPrice": 33900,
+              "discountRate": 50,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "1천원쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "999+"
+            },
+            {
+              "number": 1000575318,
+              "name": "[달바] 슈퍼 모이스처 에센스 선크림 50ml",
+              "summary": "풍부한 수분감의 순한 유기자차",
+              "imageURL": "https://product-image.kurly.com/product/image/0aa13bc2-c5ed-4fc2-87a3-4369ea9a7cce.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/0aa13bc2-c5ed-4fc2-87a3-4369ea9a7cce.jpg",
+              "salesPrice": 36000,
+              "discountedPrice": 17900,
+              "discountRate": 50,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "1천원쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "14"
+            },
+            {
+              "number": 1000575309,
+              "name": "[달바] 화이트 트러플 프라임 인텐시브 세럼 100ml",
+              "summary": "탄력부터 미백까지 올인원 안티에이징",
+              "imageURL": "https://product-image.kurly.com/product/image/995618d9-787b-4e4a-bdb2-6c98d2c46ff2.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/995618d9-787b-4e4a-bdb2-6c98d2c46ff2.jpg",
+              "salesPrice": 46000,
+              "discountedPrice": 32200,
+              "discountRate": 30,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "1천원쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "11"
+            },
+            {
+              "number": 1001067845,
+              "name": "[달바] 로얄 인텐시브 미스트 세럼 100ml+엑스트라 퍼밍 탄력크림 50ml 세트",
+              "summary": "★컬리 ONLY★ BEST 선물 & 보습케어 추천! ",
+              "imageURL": "https://product-image.kurly.com/product/image/4b8f2ee3-c47a-4cfe-a004-fb7c25e61b07.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/4b8f2ee3-c47a-4cfe-a004-fb7c25e61b07.jpg",
+              "salesPrice": 88000,
+              "discountedPrice": 28900,
+              "discountRate": 67,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "1천원쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                },
+                {
+                  "type": "BOTTOM_CENTER_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "최대혜택가 27,900원",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 0.4,
+                    "backgroundColorCode": "#000000"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "64"
+            },
+            {
+              "number": 1000575301,
+              "name": "[달바] 화이트 트러플 퍼스트 아로마틱 스프레이 세럼 60ml",
+              "summary": "속부터 촉촉하게 탄력 케어",
+              "imageURL": "https://product-image.kurly.com/product/image/3ef6d31b-0d8c-417a-9735-f7ca21f0b282.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/3ef6d31b-0d8c-417a-9735-f7ca21f0b282.jpg",
+              "salesPrice": 26000,
+              "discountedPrice": 17900,
+              "discountRate": 31,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "1천원쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "11"
+            },
+            {
+              "number": 1000575298,
+              "name": "[달바] 화이트 트러플 퍼스트 아로마틱 스프레이 세럼 120ml",
+              "summary": "속부터 촉촉하게 탄력 케어",
+              "imageURL": "https://product-image.kurly.com/product/image/dfdeb00e-ebd2-4746-86ab-5a6c9f0bc98b.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/dfdeb00e-ebd2-4746-86ab-5a6c9f0bc98b.jpg",
+              "salesPrice": 42000,
+              "discountedPrice": 27900,
+              "discountRate": 33,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "1천원쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": ""
+            },
+            {
+              "number": 1000577533,
+              "name": "[달바] 워터풀 프레쉬 선쿠션 25g",
+              "summary": "얼굴부터 바디까지 빠른 쿨링 진정",
+              "imageURL": "https://product-image.kurly.com/product/image/93addf47-2697-46ff-a05c-a58672f5b3a3.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/93addf47-2697-46ff-a05c-a58672f5b3a3.jpg",
+              "salesPrice": 42000,
+              "discountedPrice": 25900,
+              "discountRate": 38,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "1천원쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "12"
+            }
+          ]
+        },
+        {
+          "id": 20665,
+          "title": "최초특가",
+          "code": "5bkf-160002-gnb",
+          "imageURL": "https://collection-image.kurly.com/product-collections/20665/lUN6H5UpK1pOC2p7ht6kDzgkP2yDM0LDgy1wi2eK.png",
+          "items": [
+            {
+              "number": 1001324913,
+              "name": "[달바][최초특가] 시그니처 올쎄라 더블 샷 (뷰티 디바이스)",
+              "summary": "",
+              "imageURL": "https://3p-image.kurly.com/files/970fcae4-9748-4107-af8b-a7c6be925938/86bf8c1d-2b12-412e-978f-fb5b9586ecd0.jpg",
+              "thumbnailImageURL": "https://3p-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/files/970fcae4-9748-4107-af8b-a7c6be925938/86bf8c1d-2b12-412e-978f-fb5b9586ecd0.jpg",
+              "salesPrice": 700000,
+              "discountedPrice": 299000,
+              "discountRate": 57,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "45"
+            },
+            {
+              "number": 1000319181,
+              "name": "[최초특가][달바] 화이트 트러플 퍼스트 스프레이 세럼 100ml 2개 세트 (옐로우 미스트 세럼)",
+              "summary": "윤기와 보습을 더하는 산뜻 미스트 ",
+              "imageURL": "https://product-image.kurly.com/product/image/e97cc80f-a118-41ef-b67d-ffe642065029.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/e97cc80f-a118-41ef-b67d-ffe642065029.jpg",
+              "salesPrice": 59800,
+              "discountedPrice": 30900,
+              "discountRate": 48,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "2/19일 재입고 예정",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "1천원쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                },
+                {
+                  "type": "BOTTOM_CENTER_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "최대 혜택가 29,900원",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 0.4,
+                    "backgroundColorCode": "#000000"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "999+"
+            },
+            {
+              "number": 1001109589,
+              "name": "[브이티] VT 블랙 트러플 리들샷 피디알엔 꿀조합 기획세트 (트러플 리들샷 100, 피디알엔 에센스, 피디알엔 마스크)",
+              "summary": "로얄 트러플과 산삼 추출물의 에너지로 프리미엄 에이징 케어",
+              "imageURL": "https://product-image.kurly.com/product/image/78837631-f3b7-4e59-a298-06ac7d98b86c.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/78837631-f3b7-4e59-a298-06ac7d98b86c.jpg",
+              "salesPrice": 118000,
+              "discountedPrice": 76700,
+              "discountRate": 35,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "증정이벤트",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                },
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/7cb952dc-4a57-43a8-b021-95ed74cb1e5e.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "212"
+            },
+            {
+              "number": 1001109591,
+              "name": "[브이티] VT 콜라겐 리들샷 피디알엔 꿀조합 기획세트 (콜라겐 리들샷 100, 피디알엔 에센스, 피디알엔 마스크)",
+              "summary": "탄력 시카 리들과 산삼 추출물의 에너지로 탄력 집중 케어",
+              "imageURL": "https://product-image.kurly.com/product/image/e4b51721-22f0-4cc7-a644-da21af0357db.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/e4b51721-22f0-4cc7-a644-da21af0357db.jpg",
+              "salesPrice": 117000,
+              "discountedPrice": 76000,
+              "discountRate": 35,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/7cb952dc-4a57-43a8-b021-95ed74cb1e5e.png"
+                  }
+                },
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "증정이벤트",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "363"
+            },
+            {
+              "number": 1001109593,
+              "name": "[브이티] VT 블랙 트러플+콜라겐 리들샷 듀오 기획세트 (트러플 리들샷 100+콜라겐 리들샷 100)",
+              "summary": "로얄 트러플과 탄력 시카 리들로 프리미엄 에이징 케어",
+              "imageURL": "https://product-image.kurly.com/product/image/0036d4f0-79c5-49ca-a096-2fff3e87413d.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/0036d4f0-79c5-49ca-a096-2fff3e87413d.jpg",
+              "salesPrice": 97000,
+              "discountedPrice": 67900,
+              "discountRate": 30,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "증정이벤트",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                },
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/7cb952dc-4a57-43a8-b021-95ed74cb1e5e.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "231"
+            }
+          ]
+        },
+        {
+          "id": 20678,
+          "title": "여름준비템",
+          "code": "5bkf-160005-gnb",
+          "imageURL": "https://collection-image.kurly.com/product-collections/20678/Tcg4Fw1yyhwI7WZAsKU7V7ZQULGpdF3sOBonYue7.png",
+          "items": [
+            {
+              "number": 1000577533,
+              "name": "[달바] 워터풀 프레쉬 선쿠션 25g",
+              "summary": "얼굴부터 바디까지 빠른 쿨링 진정",
+              "imageURL": "https://product-image.kurly.com/product/image/93addf47-2697-46ff-a05c-a58672f5b3a3.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/93addf47-2697-46ff-a05c-a58672f5b3a3.jpg",
+              "salesPrice": 42000,
+              "discountedPrice": 25900,
+              "discountRate": 38,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "1천원쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "12"
+            },
+            {
+              "number": 5069199,
+              "name": "[달바] 워터풀 마일드 선크림 (비건)",
+              "summary": "순하고 촉촉한 무기자차 선크림",
+              "imageURL": "https://img-cf.kurly.com/shop/data/goods/1655460104560l0.jpg",
+              "thumbnailImageURL": "https://img-cf.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/shop/data/goods/1655460104560l0.jpg",
+              "salesPrice": 34000,
+              "discountedPrice": 17900,
+              "discountRate": 47,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "1천원쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "319"
+            },
+            {
+              "number": 1000575318,
+              "name": "[달바] 슈퍼 모이스처 에센스 선크림 50ml",
+              "summary": "풍부한 수분감의 순한 유기자차",
+              "imageURL": "https://product-image.kurly.com/product/image/0aa13bc2-c5ed-4fc2-87a3-4369ea9a7cce.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/0aa13bc2-c5ed-4fc2-87a3-4369ea9a7cce.jpg",
+              "salesPrice": 36000,
+              "discountedPrice": 17900,
+              "discountRate": 50,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "1천원쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "14"
+            },
+            {
+              "number": 1001322088,
+              "name": "[달바] 워터풀 톤업 퍼플 선크림 50ml 1+1 세트",
+              "summary": "노란기를 잡아주는 쿨톤 보정",
+              "imageURL": "https://product-image.kurly.com/product/image/feb29c74-dfec-436f-8117-320423d91912.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/feb29c74-dfec-436f-8117-320423d91912.jpg",
+              "salesPrice": 68000,
+              "discountedPrice": 33900,
+              "discountRate": 50,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "1천원쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "44"
+            },
+            {
+              "number": 1001201382,
+              "name": "[달바] 핑크 톤업+에센스 선크림 단독 기획세트 (톤업 50ml+에센스 50ml+오일 클렌저3ml*4개)",
+              "summary": "달바 컬리온리 선크림 기획세트",
+              "imageURL": "https://product-image.kurly.com/product/image/86ab1a1a-0dff-4d5e-a7dc-b41a87f0d928.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/86ab1a1a-0dff-4d5e-a7dc-b41a87f0d928.jpg",
+              "salesPrice": 68000,
+              "discountedPrice": 33900,
+              "discountRate": 50,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [
+                {
+                  "name": "Kurly Only",
+                  "type": "KURLY_ONLY"
+                }
+              ],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "1천원쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "999+"
+            },
+            {
+              "number": 1000577527,
+              "name": "[달바] 에어 핏 프레쉬 선 스틱 19g",
+              "summary": "묻어남 없이 보송한 마무리감",
+              "imageURL": "https://product-image.kurly.com/product/image/b91d4e3b-c4f0-4018-bf9f-3011766c8651.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/b91d4e3b-c4f0-4018-bf9f-3011766c8651.jpg",
+              "salesPrice": 36000,
+              "discountedPrice": 22900,
+              "discountRate": 36,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "1천원쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "15"
+            }
+          ]
+        },
+        {
+          "id": 20676,
+          "title": "알뜰가성비",
+          "code": "5bkf-160007-gnb",
+          "imageURL": "https://collection-image.kurly.com/product-collections/20676/B9e0fGAuIgta2nkwsuNfuWZ4AqIITOi8hTs8hXaA.png",
+          "items": [
+            {
+              "number": 5063595,
+              "name": "[도브] 뷰티바 90g 4개입 5종 (택1, NEW 옵션 추가)",
+              "summary": "당김 없이 촉촉한 올인원 뷰티바",
+              "imageURL": "https://product-image.kurly.com/product/image/f1e0cb00-55ac-4c78-9070-e90159a163ab.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/f1e0cb00-55ac-4c78-9070-e90159a163ab.jpg",
+              "salesPrice": 7900,
+              "discountedPrice": 5300,
+              "discountRate": 32,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/1b8cf52a-11f7-4458-a683-fe467f0be422.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "9,999+"
+            },
+            {
+              "number": 5148578,
+              "name": "[레드씰] 프로폴리스 치약 100g (3개입)",
+              "summary": "구취를 산뜻하게 잡아주는 치약",
+              "imageURL": "https://product-image.kurly.com/product/image/8559b9f5-f4ee-4960-b4b7-b67a0933fdd2.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/8559b9f5-f4ee-4960-b4b7-b67a0933fdd2.jpg",
+              "salesPrice": 21000,
+              "discountedPrice": 14200,
+              "discountRate": 32,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/7cb952dc-4a57-43a8-b021-95ed74cb1e5e.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "999+"
+            },
+            {
+              "number": 5065643,
+              "name": "[닥터레이] 휴대용 칫솔 세트 2종 (택1)",
+              "summary": "결합 보관하는 치약&칫솔&컵 세트",
+              "imageURL": "https://img-cf.kurly.com/shop/data/goods/1610007186682l0.jpg",
+              "thumbnailImageURL": "https://img-cf.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/shop/data/goods/1610007186682l0.jpg",
+              "salesPrice": 11000,
+              "discountedPrice": 8900,
+              "discountRate": 19,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/7cb952dc-4a57-43a8-b021-95ed74cb1e5e.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "882"
+            },
+            {
+              "number": 1000301671,
+              "name": "[루치펠로] 코랄리프 고불소 치약 120g 3개입",
+              "summary": "치아 강화와 충치 케어를 한 번에",
+              "imageURL": "https://product-image.kurly.com/product/image/671b8837-b065-4480-8083-9e50cfa59ab2.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/671b8837-b065-4480-8083-9e50cfa59ab2.jpg",
+              "salesPrice": 29400,
+              "discountedPrice": 17900,
+              "discountRate": 39,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/7cb952dc-4a57-43a8-b021-95ed74cb1e5e.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "196"
+            },
+            {
+              "number": 1000122471,
+              "name": "[마르시끄] 링클 리페어 팔자 주름 패치 1세트 (12패치X5장)",
+              "summary": "간편하게 관리하는 팔자 주름",
+              "imageURL": "https://product-image.kurly.com/product/image/40034b84-895e-4db1-b2ba-bda8db7134bd.jpg?v=0422",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/40034b84-895e-4db1-b2ba-bda8db7134bd.jpg?v=0422",
+              "salesPrice": 30000,
+              "discountedPrice": 18500,
+              "discountRate": 38,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "BOTTOM_LEFT_IMAGE",
+                  "content": {
+                    "opacity": 1,
+                    "imageUrl": "https://product-image.kurly.com/sticker/image/7cb952dc-4a57-43a8-b021-95ed74cb1e5e.png"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "943"
+            }
+          ]
+        },
+        {
+          "id": 20683,
+          "title": "신규입점",
+          "code": "5bkf-160003-gnb",
+          "imageURL": "https://collection-image.kurly.com/product-collections/20683/4RroHnv6NuYg7VRodRCFCWjZXJXf5352Em0KL88a.png",
+          "items": [
+            {
+              "number": 1001324913,
+              "name": "[달바][최초특가] 시그니처 올쎄라 더블 샷 (뷰티 디바이스)",
+              "summary": "",
+              "imageURL": "https://3p-image.kurly.com/files/970fcae4-9748-4107-af8b-a7c6be925938/86bf8c1d-2b12-412e-978f-fb5b9586ecd0.jpg",
+              "thumbnailImageURL": "https://3p-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/files/970fcae4-9748-4107-af8b-a7c6be925938/86bf8c1d-2b12-412e-978f-fb5b9586ecd0.jpg",
+              "salesPrice": 700000,
+              "discountedPrice": 299000,
+              "discountRate": 57,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "45"
+            },
+            {
+              "number": 1000575318,
+              "name": "[달바] 슈퍼 모이스처 에센스 선크림 50ml",
+              "summary": "풍부한 수분감의 순한 유기자차",
+              "imageURL": "https://product-image.kurly.com/product/image/0aa13bc2-c5ed-4fc2-87a3-4369ea9a7cce.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/0aa13bc2-c5ed-4fc2-87a3-4369ea9a7cce.jpg",
+              "salesPrice": 36000,
+              "discountedPrice": 17900,
+              "discountRate": 50,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "1천원쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "14"
+            },
+            {
+              "number": 1000577533,
+              "name": "[달바] 워터풀 프레쉬 선쿠션 25g",
+              "summary": "얼굴부터 바디까지 빠른 쿨링 진정",
+              "imageURL": "https://product-image.kurly.com/product/image/93addf47-2697-46ff-a05c-a58672f5b3a3.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/93addf47-2697-46ff-a05c-a58672f5b3a3.jpg",
+              "salesPrice": 42000,
+              "discountedPrice": 25900,
+              "discountRate": 38,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "1천원쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "12"
+            },
+            {
+              "number": 1001322088,
+              "name": "[달바] 워터풀 톤업 퍼플 선크림 50ml 1+1 세트",
+              "summary": "노란기를 잡아주는 쿨톤 보정",
+              "imageURL": "https://product-image.kurly.com/product/image/feb29c74-dfec-436f-8117-320423d91912.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/feb29c74-dfec-436f-8117-320423d91912.jpg",
+              "salesPrice": 68000,
+              "discountedPrice": 33900,
+              "discountRate": 50,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "1천원쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": "44"
+            },
+            {
+              "number": 1000971620,
+              "name": "[달바] 화이트 트러플 오일 크림 클렌저 100ml (튜브형)",
+              "summary": "2차 세안 없이 원스텝 클렌징",
+              "imageURL": "https://product-image.kurly.com/product/image/f500a990-f6b3-4aa5-a554-8d83ed5145f7.jpg",
+              "thumbnailImageURL": "https://product-image.kurly.com/hdims/resize/%5E%3E360x%3E468/cropcenter/360x468/quality/85/src/product/image/f500a990-f6b3-4aa5-a554-8d83ed5145f7.jpg",
+              "salesPrice": 28000,
+              "discountedPrice": 13900,
+              "discountRate": 50,
+              "isMultiplePrice": false,
+              "isBuyNow": false,
+              "isPurchasable": true,
+              "isGiftable": false,
+              "isAdultOnly": false,
+              "isSoldOut": false,
+              "soldOutReason": "Coming Soon",
+              "soldOutDetail": "",
+              "isRestockAlertAvailable": true,
+              "status": "BUY_POSSIBLE",
+              "purchaseUnavailableReason": "Coming Soon",
+              "deliveryTypeInfos": [
+                {
+                  "type": "DAWN",
+                  "description": "샛별배송"
+                }
+              ],
+              "tags": [],
+              "stickers": [
+                {
+                  "type": "TOP_LEFT_TEXT",
+                  "content": {
+                    "contents": [
+                      {
+                        "text": "1천원쿠폰+증정",
+                        "opacity": 1,
+                        "fontColorCode": "#FFFFFF"
+                      }
+                    ],
+                    "backgroundOpacity": 1,
+                    "backgroundColorCode": "#BD76FF"
+                  }
+                }
+              ],
+              "groupProduct": {
+                "isGroup": false,
+                "isNotRepresentative": false
+              },
+              "formattedReviewCount": ""
+            }
+          ]
+        }
+      ],
+      "type": "Collection"
     }
   ]
 }
