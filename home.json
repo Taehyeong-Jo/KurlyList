@@ -6780,7 +6780,7 @@
       "id": 1454,
       "title": "MD의 추천",
       "subtitle": "",
-      "sections": [
+      "categories": [
         {
           "title": "간편식·밀키트·샐러드",
           "code": 912,
@@ -13248,7 +13248,7 @@
           ]
         }
       ],
-      "type": "Section"
+      "type": "Category"
     }
   ]
 }
